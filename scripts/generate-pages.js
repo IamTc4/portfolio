@@ -32,8 +32,18 @@ projectsData.categories.forEach(category => {
             </div>
         `).join('');
 
-        // Generate HTML for the preview image
-        const previewHtml = `<img src="${project.previewImage}" alt="${project.title}">`;
+        // Generate HTML for the preview
+        let previewHtml, previewCode;
+        if (project.type === 'Website') {
+            const dummyHtml = fs.readFileSync(path.join(__dirname, '..', 'previews', 'dummy.html'), 'utf8');
+            const dummyCss = fs.readFileSync(path.join(__dirname, '..', 'previews', 'style.css'), 'utf8');
+            const dummyJs = fs.readFileSync(path.join(__dirname, '..', 'previews', 'script.js'), 'utf8');
+            previewHtml = `<style>${dummyCss}</style>${dummyHtml}<script>${dummyJs}<\/script>`;
+            previewCode = `${dummyHtml}\n\n<style>\n${dummyCss}\n</style>\n\n<script>\n${dummyJs}\n</script>`;
+        } else {
+            previewHtml = `<img src='${project.previewImage}' alt='A preview image of the ${project.title} project.' style='width:100%;height:auto;'>`;
+            previewCode = 'No code snippet available for this project type.';
+        }
 
         // Replace placeholders with project data
         let pageContent = template
@@ -41,7 +51,8 @@ projectsData.categories.forEach(category => {
             .replace(/{{PROJECT_DESCRIPTION}}/g, project.description)
             .replace(/{{PROJECT_TOOLS}}/g, project.tools.map(tool => `<li>${tool}</li>`).join(''))
             .replace(/{{PROJECT_FEATURES}}/g, featuresHtml)
-            .replace(/{{PROJECT_PREVIEW}}/g, previewHtml)
+            .replace(/{{PROJECT_PREVIEW_HTML}}/g, previewHtml)
+            .replace(/{{PROJECT_PREVIEW_CODE}}/g, previewCode)
             .replace(/{{PROJECT_TIMELINE}}/g, timelineHtml)
             .replace(/{{PROJECT_WHAT_WE_DID}}/g, project.what_we_did);
 

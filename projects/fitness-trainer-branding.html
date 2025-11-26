@@ -5,42 +5,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Fitness Trainer Branding</title>
     <link rel="stylesheet" href="../style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <div class="project-container">
-        <header class="hero">
-            <h1>Fitness Trainer Branding</h1>
+        <header class="project-hero">
+            <div class="project-hero-content">
+                <h1 class="project-title">Fitness Trainer Branding</h1>
+                <p class="project-subtitle">Developing a strong personal brand for a fitness trainer on social media.</p>
+                <a href="../index.html" class="btn btn-back">&larr; Back to Showcase</a>
+            </div>
         </header>
 
-        <section class="section">
-            <h2>Description</h2>
-            <p>Developing a strong personal brand for a fitness trainer on social media.</p>
-        </section>
-
-        <section class="section">
-            <h2>Features</h2>
-            <ul class="features-list">
-                <li>Feature A for Fitness Trainer Branding</li><li>Feature B for Fitness Trainer Branding</li><li>Feature C for Fitness Trainer Branding</li>
-            </ul>
-        </section>
-
-        <section class="section">
-            <h2>Tools Used</h2>
-            <ul class="tools-list">
-                <li>Instagram</li><li>TikTok</li><li>YouTube</li>
-            </ul>
-        </section>
-
-        <section class="section">
-            <h2>Preview</h2>
-            <div class="preview-gallery">
-                <img src="https://via.placeholder.com/400x300.png?text=Fitness%20Trainer%20Branding" alt="Fitness Trainer Branding">
+        <main class="project-main-content">
+            <div class="project-overview-grid">
+                <div class="project-details-card">
+                    <h3>Project Overview</h3>
+                    <p>For the Fitness Trainer Branding project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.</p>
+                </div>
+                <div class="project-details-card">
+                    <h3>Client Testimonial</h3>
+                    <p>"This was an amazing experience. The team was professional, responsive, and delivered a final product that exceeded our expectations. We couldn't be happier!"</p>
+                    <cite>&ndash; A Happy Client</cite>
+                </div>
+                <div class="project-details-card">
+                    <h3>Tools Used</h3>
+                    <ul class="tools-list">
+                        <li>Instagram</li><li>TikTok</li><li>YouTube</li>
+                    </ul>
+                </div>
+                <div class="project-details-card">
+                    <h3>Key Features</h3>
+                    <ul class="features-list">
+                        <li>Feature A for Fitness Trainer Branding</li><li>Feature B for Fitness Trainer Branding</li><li>Feature C for Fitness Trainer Branding</li>
+                    </ul>
+                </div>
             </div>
-        </section>
 
-        <section class="section">
-            <h2>Timeline</h2>
-            <div class="timeline">
+            <section class="section project-timeline-section">
+                <h2>Project Timeline</h2>
+                <div class="timeline">
 
             <div class="timeline-item">
                 <h3>Phase 1</h3>
@@ -57,18 +61,41 @@
                 <p>Deployment, launch, and post-launch support.</p>
             </div>
 
+                </div>
+            </section>
+
+            <section class="section project-preview-section">
+                <h2>Visual Showcase</h2>
+                <div class="preview-tabs">
+                    <div class="tab-header">
+                        <button class="tab-link active" onclick="openTab(event, 'live-preview')">Live Preview</button>
+                        <button class="tab-link" onclick="openTab(event, 'code-snippet')">Code Snippet</button>
+                    </div>
+                    <div id="live-preview" class="tab-content" style="display: block;">
+                        <iframe srcdoc="<img src='https://via.placeholder.com/400x300.png?text=Fitness%20Trainer%20Branding' alt='A preview image of the Fitness Trainer Branding project.' style='width:100%;height:auto;'>" frameborder="0"></iframe>
+                    </div>
+                    <div id="code-snippet" class="tab-content">
+                        <pre><code>No code snippet available for this project type.</code></pre>
+                    </div>
+                </div>
+            </section>
+
+            <section class="section project-analytics-section">
+                <h2>Analytics Report</h2>
+                <div class="analytics-dummy">
+                    <p>This is a placeholder for a dummy analytics report. In a real project, this section would feature charts and data showcasing the project's success and key performance indicators.</p>
+                    <img src="https://via.placeholder.com/800x400.png?text=Dummy+Analytics+Chart" alt="A dummy analytics chart showing placeholder data.">
+                </div>
+            </section>
+        </main>
+
+        <footer class="project-footer">
+            <div class="button-group">
+                <a href="#" class="btn btn-primary">Contact Us</a>
+                <a href="../index.html" class="btn">Back to Showcase</a>
             </div>
-        </section>
-
-        <section class="section">
-            <h2>What We Did</h2>
-            <p>For the Fitness Trainer Branding project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.</p>
-        </section>
-
-        <div class="button-group">
-            <a href="#" class="btn">Contact Us</a>
-            <a href="../index.html" class="btn">Back to Showcase</a>
-        </div>
+        </footer>
     </div>
+    <script src="../scripts/tabs.js"></script>
 </body>
 </html>

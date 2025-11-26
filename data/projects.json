@@ -1,0 +1,2652 @@
+{
+  "categories": [
+    {
+      "name": "WEB & APP DEVELOPMENT",
+      "projects": [
+        {
+          "title": "Business Website for a Real Estate Agent",
+          "description": "A professional website to showcase property listings and generate leads.",
+          "tools": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "PHP"
+          ],
+          "type": "Website",
+          "features": [
+            "Feature A for Business Website for a Real Estate Agent",
+            "Feature B for Business Website for a Real Estate Agent",
+            "Feature C for Business Website for a Real Estate Agent"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Business Website for a Real Estate Agent project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Business%20Website%20for%20a%20Real%20Estate%20Agent"
+        },
+        {
+          "title": "Restaurant Website with Online Menu",
+          "description": "An elegant website featuring an interactive online menu and reservation system.",
+          "tools": [
+            "WordPress",
+            "Elementor"
+          ],
+          "type": "Website",
+          "features": [
+            "Feature A for Restaurant Website with Online Menu",
+            "Feature B for Restaurant Website with Online Menu",
+            "Feature C for Restaurant Website with Online Menu"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Restaurant Website with Online Menu project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Restaurant%20Website%20with%20Online%20Menu"
+        },
+        {
+          "title": "Salon/Beauty Studio Booking Website",
+          "description": "A stylish website with an integrated booking system for appointments.",
+          "tools": [
+            "Wix",
+            "Acuity Scheduling"
+          ],
+          "type": "Website",
+          "features": [
+            "Feature A for Salon/Beauty Studio Booking Website",
+            "Feature B for Salon/Beauty Studio Booking Website",
+            "Feature C for Salon/Beauty Studio Booking Website"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Salon/Beauty Studio Booking Website project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Salon%2FBeauty%20Studio%20Booking%20Website"
+        },
+        {
+          "title": "Gym/Fitness Landing Page",
+          "description": "A motivational landing page to attract new members and promote classes.",
+          "tools": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+          ],
+          "type": "Website",
+          "features": [
+            "Feature A for Gym/Fitness Landing Page",
+            "Feature B for Gym/Fitness Landing Page",
+            "Feature C for Gym/Fitness Landing Page"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Gym/Fitness Landing Page project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Gym%2FFitness%20Landing%20Page"
+        },
+        {
+          "title": "Corporate Website for a Startup",
+          "description": "A modern and professional website to represent a startup's brand and mission.",
+          "tools": [
+            "React",
+            "Node.js",
+            "Express"
+          ],
+          "type": "Website",
+          "features": [
+            "Feature A for Corporate Website for a Startup",
+            "Feature B for Corporate Website for a Startup",
+            "Feature C for Corporate Website for a Startup"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Corporate Website for a Startup project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Corporate%20Website%20for%20a%20Startup"
+        },
+        {
+          "title": "Portfolio Site for a Photographer",
+          "description": "A visually stunning portfolio website to showcase a photographer's work.",
+          "tools": [
+            "Adobe Portfolio",
+            "Lightroom"
+          ],
+          "type": "Website",
+          "features": [
+            "Feature A for Portfolio Site for a Photographer",
+            "Feature B for Portfolio Site for a Photographer",
+            "Feature C for Portfolio Site for a Photographer"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Portfolio Site for a Photographer project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Portfolio%20Site%20for%20a%20Photographer"
+        },
+        {
+          "title": "Blogging Website in WordPress",
+          "description": "A feature-rich blogging platform with a custom theme and plugins.",
+          "tools": [
+            "WordPress",
+            "PHP",
+            "MySQL"
+          ],
+          "type": "Website",
+          "features": [
+            "Feature A for Blogging Website in WordPress",
+            "Feature B for Blogging Website in WordPress",
+            "Feature C for Blogging Website in WordPress"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Blogging Website in WordPress project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Blogging%20Website%20in%20WordPress"
+        },
+        {
+          "title": "Consultancy Company Website",
+          "description": "A professional website to highlight a consultancy's services and expertise.",
+          "tools": [
+            "Webflow"
+          ],
+          "type": "Website",
+          "features": [
+            "Feature A for Consultancy Company Website",
+            "Feature B for Consultancy Company Website",
+            "Feature C for Consultancy Company Website"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Consultancy Company Website project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Consultancy%20Company%20Website"
+        },
+        {
+          "title": "Travel Agency Website",
+          "description": "A captivating website to inspire wanderlust and facilitate travel bookings.",
+          "tools": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Booking API"
+          ],
+          "type": "Website",
+          "features": [
+            "Feature A for Travel Agency Website",
+            "Feature B for Travel Agency Website",
+            "Feature C for Travel Agency Website"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Travel Agency Website project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Travel%20Agency%20Website"
+        },
+        {
+          "title": "Coaching/Institute Website",
+          "description": "An informative website for a coaching institute with course details and online registration.",
+          "tools": [
+            "Moodle",
+            "PHP"
+          ],
+          "type": "Website",
+          "features": [
+            "Feature A for Coaching/Institute Website",
+            "Feature B for Coaching/Institute Website",
+            "Feature C for Coaching/Institute Website"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Coaching/Institute Website project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Coaching%2FInstitute%20Website"
+        },
+        {
+          "title": "Clothing Brand Shopify Store",
+          "description": "A trendy and user-friendly e-commerce store for a clothing brand.",
+          "tools": [
+            "Shopify",
+            "Liquid"
+          ],
+          "type": "E-commerce",
+          "features": [
+            "Feature A for Clothing Brand Shopify Store",
+            "Feature B for Clothing Brand Shopify Store",
+            "Feature C for Clothing Brand Shopify Store"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Clothing Brand Shopify Store project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Clothing%20Brand%20Shopify%20Store"
+        },
+        {
+          "title": "Electronics Store with Razorpay",
+          "description": "A robust e-commerce platform for selling electronics with secure payment integration.",
+          "tools": [
+            "Magento",
+            "Razorpay"
+          ],
+          "type": "E-commerce",
+          "features": [
+            "Feature A for Electronics Store with Razorpay",
+            "Feature B for Electronics Store with Razorpay",
+            "Feature C for Electronics Store with Razorpay"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Electronics Store with Razorpay project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Electronics%20Store%20with%20Razorpay"
+        },
+        {
+          "title": "Jewellery E-commerce Site",
+          "description": "An elegant and secure e-commerce site to showcase and sell fine jewellery.",
+          "tools": [
+            "WooCommerce",
+            "WordPress"
+          ],
+          "type": "E-commerce",
+          "features": [
+            "Feature A for Jewellery E-commerce Site",
+            "Feature B for Jewellery E-commerce Site",
+            "Feature C for Jewellery E-commerce Site"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Jewellery E-commerce Site project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Jewellery%20E-commerce%20Site"
+        },
+        {
+          "title": "Organic Products Store",
+          "description": "A clean and fresh e-commerce store for selling organic and natural products.",
+          "tools": [
+            "Shopify",
+            "Klaviyo"
+          ],
+          "type": "E-commerce",
+          "features": [
+            "Feature A for Organic Products Store",
+            "Feature B for Organic Products Store",
+            "Feature C for Organic Products Store"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Organic Products Store project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Organic%20Products%20Store"
+        },
+        {
+          "title": "Custom Furniture Store",
+          "description": "A unique e-commerce store for selling custom-made furniture with a product configurator.",
+          "tools": [
+            "BigCommerce",
+            "JavaScript"
+          ],
+          "type": "E-commerce",
+          "features": [
+            "Feature A for Custom Furniture Store",
+            "Feature B for Custom Furniture Store",
+            "Feature C for Custom Furniture Store"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Custom Furniture Store project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Custom%20Furniture%20Store"
+        },
+        {
+          "title": "Mobile Accessories Store",
+          "description": "A vibrant e-commerce store for selling a wide range of mobile accessories.",
+          "tools": [
+            "OpenCart",
+            "PayPal"
+          ],
+          "type": "E-commerce",
+          "features": [
+            "Feature A for Mobile Accessories Store",
+            "Feature B for Mobile Accessories Store",
+            "Feature C for Mobile Accessories Store"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Mobile Accessories Store project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Mobile%20Accessories%20Store"
+        },
+        {
+          "title": "Admin Panel for Product Management",
+          "description": "A comprehensive admin panel to manage products, orders, and customers.",
+          "tools": [
+            "React",
+            "Node.js",
+            "MongoDB"
+          ],
+          "type": "Dynamic / Backend",
+          "features": [
+            "Feature A for Admin Panel for Product Management",
+            "Feature B for Admin Panel for Product Management",
+            "Feature C for Admin Panel for Product Management"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Admin Panel for Product Management project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Admin%20Panel%20for%20Product%20Management"
+        },
+        {
+          "title": "User Authentication System",
+          "description": "A secure user authentication system with registration, login, and password recovery.",
+          "tools": [
+            "Firebase",
+            "JavaScript"
+          ],
+          "type": "Dynamic / Backend",
+          "features": [
+            "Feature A for User Authentication System",
+            "Feature B for User Authentication System",
+            "Feature C for User Authentication System"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the User Authentication System project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=User%20Authentication%20System"
+        },
+        {
+          "title": "Order Management Dashboard",
+          "description": "An intuitive dashboard for tracking and managing customer orders.",
+          "tools": [
+            "Vue.js",
+            "Laravel",
+            "MySQL"
+          ],
+          "type": "Dynamic / Backend",
+          "features": [
+            "Feature A for Order Management Dashboard",
+            "Feature B for Order Management Dashboard",
+            "Feature C for Order Management Dashboard"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Order Management Dashboard project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Order%20Management%20Dashboard"
+        },
+        {
+          "title": "CRM Dashboard",
+          "description": "A powerful CRM dashboard to manage customer relationships and sales pipelines.",
+          "tools": [
+            "Angular",
+            "Express",
+            "PostgreSQL"
+          ],
+          "type": "Dynamic / Backend",
+          "features": [
+            "Feature A for CRM Dashboard",
+            "Feature B for CRM Dashboard",
+            "Feature C for CRM Dashboard"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the CRM Dashboard project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=CRM%20Dashboard"
+        },
+        {
+          "title": "Database-driven Content System",
+          "description": "A flexible content management system driven by a robust database.",
+          "tools": [
+            "Django",
+            "Python",
+            "SQLite"
+          ],
+          "type": "Dynamic / Backend",
+          "features": [
+            "Feature A for Database-driven Content System",
+            "Feature B for Database-driven Content System",
+            "Feature C for Database-driven Content System"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Database-driven Content System project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Database-driven%20Content%20System"
+        },
+        {
+          "title": "Android WebView App",
+          "description": "A simple Android app that displays a web page in a WebView component.",
+          "tools": [
+            "Android Studio",
+            "Java",
+            "XML"
+          ],
+          "type": "App",
+          "features": [
+            "Feature A for Android WebView App",
+            "Feature B for Android WebView App",
+            "Feature C for Android WebView App"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Android WebView App project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Android%20WebView%20App"
+        },
+        {
+          "title": "Retail Shop App",
+          "description": "A mobile app for a retail shop with product browsing, and in-app purchases.",
+          "tools": [
+            "React Native",
+            "Firebase"
+          ],
+          "type": "App",
+          "features": [
+            "Feature A for Retail Shop App",
+            "Feature B for Retail Shop App",
+            "Feature C for Retail Shop App"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Retail Shop App project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Retail%20Shop%20App"
+        },
+        {
+          "title": "Delivery/Service Booking App",
+          "description": "A convenient mobile app for booking deliveries and services.",
+          "tools": [
+            "Flutter",
+            "Dart",
+            "Google Maps API"
+          ],
+          "type": "App",
+          "features": [
+            "Feature A for Delivery/Service Booking App",
+            "Feature B for Delivery/Service Booking App",
+            "Feature C for Delivery/Service Booking App"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Delivery/Service Booking App project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Delivery%2FService%20Booking%20App"
+        },
+        {
+          "title": "Education Notes App",
+          "description": "A helpful mobile app for students to take and organize their notes.",
+          "tools": [
+            "Swift",
+            "iOS",
+            "Core Data"
+          ],
+          "type": "App",
+          "features": [
+            "Feature A for Education Notes App",
+            "Feature B for Education Notes App",
+            "Feature C for Education Notes App"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Education Notes App project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Education%20Notes%20App"
+        },
+        {
+          "title": "News/Blog App",
+          "description": "A mobile app that aggregates news and blog posts from various sources.",
+          "tools": [
+            "Kotlin",
+            "Android",
+            "Retrofit"
+          ],
+          "type": "App",
+          "features": [
+            "Feature A for News/Blog App",
+            "Feature B for News/Blog App",
+            "Feature C for News/Blog App"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the News/Blog App project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=News%2FBlog%20App"
+        },
+        {
+          "title": "Basic Chat App (Firebase)",
+          "description": "A real-time chat application powered by Firebase.",
+          "tools": [
+            "Firebase",
+            "JavaScript"
+          ],
+          "type": "App",
+          "features": [
+            "Feature A for Basic Chat App (Firebase)",
+            "Feature B for Basic Chat App (Firebase)",
+            "Feature C for Basic Chat App (Firebase)"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Basic Chat App (Firebase) project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Basic%20Chat%20App%20(Firebase)"
+        }
+      ]
+    },
+    {
+      "name": "SOCIAL MEDIA HANDLING",
+      "projects": [
+        {
+          "title": "Fashion Brand Instagram Growth",
+          "description": "A successful campaign to grow a fashion brand's Instagram following and engagement.",
+          "tools": [
+            "Instagram",
+            "Canva",
+            "Hootsuite"
+          ],
+          "features": [
+            "Feature A for Fashion Brand Instagram Growth",
+            "Feature B for Fashion Brand Instagram Growth",
+            "Feature C for Fashion Brand Instagram Growth"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Fashion Brand Instagram Growth project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Fashion%20Brand%20Instagram%20Growth"
+        },
+        {
+          "title": "Restaurant Social Media Revamp",
+          "description": "A complete overhaul of a restaurant's social media presence to attract more customers.",
+          "tools": [
+            "Facebook",
+            "Instagram",
+            "Twitter"
+          ],
+          "features": [
+            "Feature A for Restaurant Social Media Revamp",
+            "Feature B for Restaurant Social Media Revamp",
+            "Feature C for Restaurant Social Media Revamp"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Restaurant Social Media Revamp project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Restaurant%20Social%20Media%20Revamp"
+        },
+        {
+          "title": "Coaching Institute Monthly Reels",
+          "description": "A content strategy focused on creating engaging Reels to promote a coaching institute.",
+          "tools": [
+            "Instagram Reels",
+            "Adobe Premiere Rush"
+          ],
+          "features": [
+            "Feature A for Coaching Institute Monthly Reels",
+            "Feature B for Coaching Institute Monthly Reels",
+            "Feature C for Coaching Institute Monthly Reels"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Coaching Institute Monthly Reels project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Coaching%20Institute%20Monthly%20Reels"
+        },
+        {
+          "title": "Fitness Trainer Branding",
+          "description": "Developing a strong personal brand for a fitness trainer on social media.",
+          "tools": [
+            "Instagram",
+            "TikTok",
+            "YouTube"
+          ],
+          "features": [
+            "Feature A for Fitness Trainer Branding",
+            "Feature B for Fitness Trainer Branding",
+            "Feature C for Fitness Trainer Branding"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Fitness Trainer Branding project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Fitness%20Trainer%20Branding"
+        },
+        {
+          "title": "Beauty Salon Branding Pack",
+          "description": "A complete branding package for a beauty salon, including logos, templates, and content.",
+          "tools": [
+            "Canva",
+            "Adobe Spark"
+          ],
+          "features": [
+            "Feature A for Beauty Salon Branding Pack",
+            "Feature B for Beauty Salon Branding Pack",
+            "Feature C for Beauty Salon Branding Pack"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Beauty Salon Branding Pack project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Beauty%20Salon%20Branding%20Pack"
+        },
+        {
+          "title": "Real Estate Project Promotion",
+          "description": "A targeted social media campaign to promote a new real estate project.",
+          "tools": [
+            "Facebook Ads",
+            "Instagram Ads"
+          ],
+          "features": [
+            "Feature A for Real Estate Project Promotion",
+            "Feature B for Real Estate Project Promotion",
+            "Feature C for Real Estate Project Promotion"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Real Estate Project Promotion project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Real%20Estate%20Project%20Promotion"
+        },
+        {
+          "title": "Ecommerce Product Reels",
+          "description": "Creating eye-catching Reels to showcase e-commerce products and drive sales.",
+          "tools": [
+            "Instagram Reels",
+            "InShot"
+          ],
+          "features": [
+            "Feature A for Ecommerce Product Reels",
+            "Feature B for Ecommerce Product Reels",
+            "Feature C for Ecommerce Product Reels"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Ecommerce Product Reels project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Ecommerce%20Product%20Reels"
+        },
+        {
+          "title": "Artist/Creator Branding",
+          "description": "Building a unique and authentic brand for an artist or creator on social media.",
+          "tools": [
+            "Behance",
+            "Dribbble",
+            "Instagram"
+          ],
+          "features": [
+            "Feature A for Artist/Creator Branding",
+            "Feature B for Artist/Creator Branding",
+            "Feature C for Artist/Creator Branding"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Artist/Creator Branding project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Artist%2FCreator%20Branding"
+        },
+        {
+          "title": "Event Company Calendar",
+          "description": "Managing a content calendar for an event company to promote upcoming events.",
+          "tools": [
+            "Trello",
+            "Buffer"
+          ],
+          "features": [
+            "Feature A for Event Company Calendar",
+            "Feature B for Event Company Calendar",
+            "Feature C for Event Company Calendar"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Event Company Calendar project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Event%20Company%20Calendar"
+        },
+        {
+          "title": "Local Store Awareness Campaign",
+          "description": "A social media campaign to increase awareness of a local store in the community.",
+          "tools": [
+            "Facebook",
+            "Google My Business"
+          ],
+          "features": [
+            "Feature A for Local Store Awareness Campaign",
+            "Feature B for Local Store Awareness Campaign",
+            "Feature C for Local Store Awareness Campaign"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Local Store Awareness Campaign project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Local%20Store%20Awareness%20Campaign"
+        }
+      ]
+    },
+    {
+      "name": "MEDIA SUPPORT",
+      "projects": [
+        {
+          "title": "Festival Post Bundle",
+          "description": "A collection of social media posts and graphics for various festivals.",
+          "tools": [
+            "Adobe Photoshop",
+            "Illustrator"
+          ],
+          "features": [
+            "Feature A for Festival Post Bundle",
+            "Feature B for Festival Post Bundle",
+            "Feature C for Festival Post Bundle"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Festival Post Bundle project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Festival%20Post%20Bundle"
+        },
+        {
+          "title": "Reels Editing",
+          "description": "Professional video editing services for creating engaging Instagram Reels.",
+          "tools": [
+            "Adobe Premiere Pro",
+            "After Effects"
+          ],
+          "features": [
+            "Feature A for Reels Editing",
+            "Feature B for Reels Editing",
+            "Feature C for Reels Editing"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Reels Editing project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Reels%20Editing"
+        },
+        {
+          "title": "Product Promo Video",
+          "description": "A compelling promotional video to showcase a new product.",
+          "tools": [
+            "Final Cut Pro",
+            "Motion"
+          ],
+          "features": [
+            "Feature A for Product Promo Video",
+            "Feature B for Product Promo Video",
+            "Feature C for Product Promo Video"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Product Promo Video project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Product%20Promo%20Video"
+        },
+        {
+          "title": "Logo Motion Intro",
+          "description": "An animated logo intro for use in videos and presentations.",
+          "tools": [
+            "Adobe After Effects"
+          ],
+          "features": [
+            "Feature A for Logo Motion Intro",
+            "Feature B for Logo Motion Intro",
+            "Feature C for Logo Motion Intro"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Logo Motion Intro project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Logo%20Motion%20Intro"
+        },
+        {
+          "title": "Brand Identity Pack",
+          "description": "A complete brand identity package, including a logo, color palette, and typography.",
+          "tools": [
+            "Adobe Illustrator",
+            "InDesign"
+          ],
+          "features": [
+            "Feature A for Brand Identity Pack",
+            "Feature B for Brand Identity Pack",
+            "Feature C for Brand Identity Pack"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Brand Identity Pack project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Brand%20Identity%20Pack"
+        },
+        {
+          "title": "Restaurant Menu Design",
+          "description": "A visually appealing and easy-to-read menu design for a restaurant.",
+          "tools": [
+            "Adobe InDesign",
+            "Photoshop"
+          ],
+          "features": [
+            "Feature A for Restaurant Menu Design",
+            "Feature B for Restaurant Menu Design",
+            "Feature C for Restaurant Menu Design"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Restaurant Menu Design project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Restaurant%20Menu%20Design"
+        },
+        {
+          "title": "Business Card Design",
+          "description": "A professional and memorable business card design.",
+          "tools": [
+            "Adobe Illustrator"
+          ],
+          "features": [
+            "Feature A for Business Card Design",
+            "Feature B for Business Card Design",
+            "Feature C for Business Card Design"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Business Card Design project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Business%20Card%20Design"
+        },
+        {
+          "title": "Story Highlight Icons",
+          "description": "A set of custom icons for Instagram Story Highlights.",
+          "tools": [
+            "Canva",
+            "Illustrator"
+          ],
+          "features": [
+            "Feature A for Story Highlight Icons",
+            "Feature B for Story Highlight Icons",
+            "Feature C for Story Highlight Icons"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Story Highlight Icons project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Story%20Highlight%20Icons"
+        },
+        {
+          "title": "Flyer & Brochure Design",
+          "description": "Creative and informative flyer and brochure designs for marketing campaigns.",
+          "tools": [
+            "Adobe InDesign",
+            "Photoshop"
+          ],
+          "features": [
+            "Feature A for Flyer & Brochure Design",
+            "Feature B for Flyer & Brochure Design",
+            "Feature C for Flyer & Brochure Design"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Flyer & Brochure Design project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Flyer%20%26%20Brochure%20Design"
+        }
+      ]
+    },
+    {
+      "name": "CYBERSECURITY",
+      "projects": [
+        {
+          "title": "Vulnerability Scan",
+          "description": "A comprehensive scan of a web application to identify security vulnerabilities.",
+          "tools": [
+            "Nessus",
+            "OpenVAS"
+          ],
+          "features": [
+            "Feature A for Vulnerability Scan",
+            "Feature B for Vulnerability Scan",
+            "Feature C for Vulnerability Scan"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Vulnerability Scan project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Vulnerability%20Scan"
+        },
+        {
+          "title": "OWASP Audit",
+          "description": "An audit of a web application against the OWASP Top 10 security risks.",
+          "tools": [
+            "OWASP ZAP",
+            "Burp Suite"
+          ],
+          "features": [
+            "Feature A for OWASP Audit",
+            "Feature B for OWASP Audit",
+            "Feature C for OWASP Audit"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the OWASP Audit project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=OWASP%20Audit"
+        },
+        {
+          "title": "Malware Removal",
+          "description": "The successful removal of malware from a compromised website.",
+          "tools": [
+            "Sucuri",
+            "Wordfence"
+          ],
+          "features": [
+            "Feature A for Malware Removal",
+            "Feature B for Malware Removal",
+            "Feature C for Malware Removal"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Malware Removal project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Malware%20Removal"
+        },
+        {
+          "title": "Server Hardening",
+          "description": "Implementing security measures to strengthen a server's defenses.",
+          "tools": [
+            "iptables",
+            "Fail2Ban"
+          ],
+          "features": [
+            "Feature A for Server Hardening",
+            "Feature B for Server Hardening",
+            "Feature C for Server Hardening"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Server Hardening project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Server%20Hardening"
+        },
+        {
+          "title": "SSL & Security Headers",
+          "description": "Configuring SSL certificates and security headers to protect a website.",
+          "tools": [
+            "Let's Encrypt",
+            "Cloudflare"
+          ],
+          "features": [
+            "Feature A for SSL & Security Headers",
+            "Feature B for SSL & Security Headers",
+            "Feature C for SSL & Security Headers"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the SSL & Security Headers project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=SSL%20%26%20Security%20Headers"
+        },
+        {
+          "title": "API Penetration Testing",
+          "description": "A thorough penetration test of an API to identify and exploit vulnerabilities.",
+          "tools": [
+            "Postman",
+            "Burp Suite"
+          ],
+          "features": [
+            "Feature A for API Penetration Testing",
+            "Feature B for API Penetration Testing",
+            "Feature C for API Penetration Testing"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the API Penetration Testing project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=API%20Penetration%20Testing"
+        },
+        {
+          "title": "WordPress Security Fix",
+          "description": "Fixing security vulnerabilities and backdoors in a WordPress website.",
+          "tools": [
+            "Wordfence",
+            "iThemes Security"
+          ],
+          "features": [
+            "Feature A for WordPress Security Fix",
+            "Feature B for WordPress Security Fix",
+            "Feature C for WordPress Security Fix"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the WordPress Security Fix project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=WordPress%20Security%20Fix"
+        },
+        {
+          "title": "Cloud Security Setup",
+          "description": "Configuring security settings and best practices for a cloud environment.",
+          "tools": [
+            "AWS IAM",
+            "Security Groups"
+          ],
+          "features": [
+            "Feature A for Cloud Security Setup",
+            "Feature B for Cloud Security Setup",
+            "Feature C for Cloud Security Setup"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Cloud Security Setup project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Cloud%20Security%20Setup"
+        },
+        {
+          "title": "Bug Bounty Report",
+          "description": "A detailed report of a security vulnerability found through a bug bounty program.",
+          "tools": [
+            "HackerOne",
+            "Bugcrowd"
+          ],
+          "features": [
+            "Feature A for Bug Bounty Report",
+            "Feature B for Bug Bounty Report",
+            "Feature C for Bug Bounty Report"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Bug Bounty Report project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Bug%20Bounty%20Report"
+        },
+        {
+          "title": "Firewall Optimization",
+          "description": "Optimizing firewall rules to improve security and performance.",
+          "tools": [
+            "pfSense",
+            "iptables"
+          ],
+          "features": [
+            "Feature A for Firewall Optimization",
+            "Feature B for Firewall Optimization",
+            "Feature C for Firewall Optimization"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Firewall Optimization project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Firewall%20Optimization"
+        }
+      ]
+    },
+    {
+      "name": "ML & AUTOMATION",
+      "projects": [
+        {
+          "title": "Sales Prediction",
+          "description": "A machine learning model to predict future sales based on historical data.",
+          "tools": [
+            "Python",
+            "scikit-learn",
+            "Pandas"
+          ],
+          "type": "ML",
+          "features": [
+            "Feature A for Sales Prediction",
+            "Feature B for Sales Prediction",
+            "Feature C for Sales Prediction"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Sales Prediction project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Sales%20Prediction"
+        },
+        {
+          "title": "Customer Segmentation",
+          "description": "A clustering algorithm to segment customers into different groups for targeted marketing.",
+          "tools": [
+            "Python",
+            "KMeans",
+            "Tableau"
+          ],
+          "type": "ML",
+          "features": [
+            "Feature A for Customer Segmentation",
+            "Feature B for Customer Segmentation",
+            "Feature C for Customer Segmentation"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Customer Segmentation project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Customer%20Segmentation"
+        },
+        {
+          "title": "Recommendation Engine",
+          "description": "A recommendation engine to suggest products to users based on their browsing history.",
+          "tools": [
+            "Python",
+            "Collaborative Filtering"
+          ],
+          "type": "ML",
+          "features": [
+            "Feature A for Recommendation Engine",
+            "Feature B for Recommendation Engine",
+            "Feature C for Recommendation Engine"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Recommendation Engine project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Recommendation%20Engine"
+        },
+        {
+          "title": "NLP Chatbot",
+          "description": "A natural language processing chatbot to answer customer queries.",
+          "tools": [
+            "Dialogflow",
+            "Python"
+          ],
+          "type": "ML",
+          "features": [
+            "Feature A for NLP Chatbot",
+            "Feature B for NLP Chatbot",
+            "Feature C for NLP Chatbot"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the NLP Chatbot project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=NLP%20Chatbot"
+        },
+        {
+          "title": "Image Classification",
+          "description": "A deep learning model to classify images into different categories.",
+          "tools": [
+            "TensorFlow",
+            "Keras",
+            "Python"
+          ],
+          "type": "ML",
+          "features": [
+            "Feature A for Image Classification",
+            "Feature B for Image Classification",
+            "Feature C for Image Classification"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Image Classification project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Image%20Classification"
+        },
+        {
+          "title": "Sentiment Dashboard",
+          "description": "A dashboard to visualize the sentiment of customer reviews in real-time.",
+          "tools": [
+            "Python",
+            "NLTK",
+            "Flask"
+          ],
+          "type": "ML",
+          "features": [
+            "Feature A for Sentiment Dashboard",
+            "Feature B for Sentiment Dashboard",
+            "Feature C for Sentiment Dashboard"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Sentiment Dashboard project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Sentiment%20Dashboard"
+        },
+        {
+          "title": "Python Data Entry Bot",
+          "description": "An automation script to enter data from a spreadsheet into a web form.",
+          "tools": [
+            "Python",
+            "Selenium"
+          ],
+          "type": "Automation",
+          "features": [
+            "Feature A for Python Data Entry Bot",
+            "Feature B for Python Data Entry Bot",
+            "Feature C for Python Data Entry Bot"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Python Data Entry Bot project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Python%20Data%20Entry%20Bot"
+        },
+        {
+          "title": "WhatsApp Auto Reply Bot",
+          "description": "A bot to automatically reply to messages on WhatsApp.",
+          "tools": [
+            "Python",
+            "Twilio"
+          ],
+          "type": "Automation",
+          "features": [
+            "Feature A for WhatsApp Auto Reply Bot",
+            "Feature B for WhatsApp Auto Reply Bot",
+            "Feature C for WhatsApp Auto Reply Bot"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the WhatsApp Auto Reply Bot project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=WhatsApp%20Auto%20Reply%20Bot"
+        },
+        {
+          "title": "Email Automation",
+          "description": "A script to automate sending personalized emails to a list of contacts.",
+          "tools": [
+            "Python",
+            "SMTP"
+          ],
+          "type": "Automation",
+          "features": [
+            "Feature A for Email Automation",
+            "Feature B for Email Automation",
+            "Feature C for Email Automation"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Email Automation project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Email%20Automation"
+        },
+        {
+          "title": "Web Scraper",
+          "description": "A script to scrape data from a website and store it in a structured format.",
+          "tools": [
+            "Python",
+            "Beautiful Soup"
+          ],
+          "type": "Automation",
+          "features": [
+            "Feature A for Web Scraper",
+            "Feature B for Web Scraper",
+            "Feature C for Web Scraper"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Web Scraper project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Web%20Scraper"
+        },
+        {
+          "title": "Excel → Dashboard Automation",
+          "description": "An automation to update a dashboard with data from an Excel spreadsheet.",
+          "tools": [
+            "Python",
+            "Pandas",
+            "Plotly"
+          ],
+          "type": "Automation",
+          "features": [
+            "Feature A for Excel → Dashboard Automation",
+            "Feature B for Excel → Dashboard Automation",
+            "Feature C for Excel → Dashboard Automation"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Excel → Dashboard Automation project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Excel%20%E2%86%92%20Dashboard%20Automation"
+        },
+        {
+          "title": "Inventory Auto-Update Script",
+          "description": "A script to automatically update inventory levels in a database.",
+          "tools": [
+            "Python",
+            "MySQL"
+          ],
+          "type": "Automation",
+          "features": [
+            "Feature A for Inventory Auto-Update Script",
+            "Feature B for Inventory Auto-Update Script",
+            "Feature C for Inventory Auto-Update Script"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Inventory Auto-Update Script project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Inventory%20Auto-Update%20Script"
+        }
+      ]
+    },
+    {
+      "name": "AI DASHBOARDS",
+      "projects": [
+        {
+          "title": "Sales Dashboard",
+          "description": "An interactive dashboard to visualize sales data and track key metrics.",
+          "tools": [
+            "Tableau",
+            "SQL"
+          ],
+          "features": [
+            "Feature A for Sales Dashboard",
+            "Feature B for Sales Dashboard",
+            "Feature C for Sales Dashboard"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Sales Dashboard project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Sales%20Dashboard"
+        },
+        {
+          "title": "Attendance Dashboard",
+          "description": "A dashboard to monitor employee attendance and generate reports.",
+          "tools": [
+            "Power BI",
+            "Excel"
+          ],
+          "features": [
+            "Feature A for Attendance Dashboard",
+            "Feature B for Attendance Dashboard",
+            "Feature C for Attendance Dashboard"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Attendance Dashboard project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Attendance%20Dashboard"
+        },
+        {
+          "title": "Marketing Dashboard",
+          "description": "A dashboard to track the performance of marketing campaigns.",
+          "tools": [
+            "Google Data Studio",
+            "Google Analytics"
+          ],
+          "features": [
+            "Feature A for Marketing Dashboard",
+            "Feature B for Marketing Dashboard",
+            "Feature C for Marketing Dashboard"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Marketing Dashboard project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Marketing%20Dashboard"
+        },
+        {
+          "title": "Power BI Sales Insights",
+          "description": "A Power BI dashboard to gain insights into sales performance.",
+          "tools": [
+            "Power BI",
+            "DAX"
+          ],
+          "features": [
+            "Feature A for Power BI Sales Insights",
+            "Feature B for Power BI Sales Insights",
+            "Feature C for Power BI Sales Insights"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Power BI Sales Insights project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Power%20BI%20Sales%20Insights"
+        },
+        {
+          "title": "Revenue Forecasting",
+          "description": "A dashboard to forecast future revenue based on historical data.",
+          "tools": [
+            "Tableau",
+            "R"
+          ],
+          "features": [
+            "Feature A for Revenue Forecasting",
+            "Feature B for Revenue Forecasting",
+            "Feature C for Revenue Forecasting"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Revenue Forecasting project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Revenue%20Forecasting"
+        },
+        {
+          "title": "Ecommerce Analytics",
+          "description": "A dashboard to analyze e-commerce data and identify trends.",
+          "tools": [
+            "Google Analytics",
+            "Data Studio"
+          ],
+          "features": [
+            "Feature A for Ecommerce Analytics",
+            "Feature B for Ecommerce Analytics",
+            "Feature C for Ecommerce Analytics"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Ecommerce Analytics project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Ecommerce%20Analytics"
+        },
+        {
+          "title": "Real Estate Leads Dashboard",
+          "description": "A dashboard to track and manage real estate leads.",
+          "tools": [
+            "Zoho Analytics",
+            "CRM"
+          ],
+          "features": [
+            "Feature A for Real Estate Leads Dashboard",
+            "Feature B for Real Estate Leads Dashboard",
+            "Feature C for Real Estate Leads Dashboard"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Real Estate Leads Dashboard project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Real%20Estate%20Leads%20Dashboard"
+        },
+        {
+          "title": "Inventory Dashboard",
+          "description": "A dashboard to monitor inventory levels and track stock movements.",
+          "tools": [
+            "Power BI",
+            "Excel"
+          ],
+          "features": [
+            "Feature A for Inventory Dashboard",
+            "Feature B for Inventory Dashboard",
+            "Feature C for Inventory Dashboard"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Inventory Dashboard project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Inventory%20Dashboard"
+        },
+        {
+          "title": "Financial Summary",
+          "description": "A dashboard to provide a summary of a company's financial performance.",
+          "tools": [
+            "Tableau",
+            "SQL"
+          ],
+          "features": [
+            "Feature A for Financial Summary",
+            "Feature B for Financial Summary",
+            "Feature C for Financial Summary"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Financial Summary project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Financial%20Summary"
+        },
+        {
+          "title": "KPI Dashboard",
+          "description": "A dashboard to track key performance indicators (KPIs) for a business.",
+          "tools": [
+            "Google Data Studio",
+            "Google Sheets"
+          ],
+          "features": [
+            "Feature A for KPI Dashboard",
+            "Feature B for KPI Dashboard",
+            "Feature C for KPI Dashboard"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the KPI Dashboard project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=KPI%20Dashboard"
+        }
+      ]
+    },
+    {
+      "name": "BUSINESS SUPPORT",
+      "projects": [
+        {
+          "title": "SOP Creation",
+          "description": "Developing standard operating procedures (SOPs) to streamline business processes.",
+          "tools": [
+            "Microsoft Word",
+            "Visio"
+          ],
+          "features": [
+            "Feature A for SOP Creation",
+            "Feature B for SOP Creation",
+            "Feature C for SOP Creation"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the SOP Creation project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=SOP%20Creation"
+        },
+        {
+          "title": "Business Strategy Plan",
+          "description": "Creating a comprehensive business strategy plan to achieve long-term goals.",
+          "tools": [
+            "SWOT Analysis",
+            "PESTLE Analysis"
+          ],
+          "features": [
+            "Feature A for Business Strategy Plan",
+            "Feature B for Business Strategy Plan",
+            "Feature C for Business Strategy Plan"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Business Strategy Plan project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Business%20Strategy%20Plan"
+        },
+        {
+          "title": "Pricing Strategy",
+          "description": "Developing a pricing strategy to maximize profitability and market share.",
+          "tools": [
+            "Competitor Analysis",
+            "Value-Based Pricing"
+          ],
+          "features": [
+            "Feature A for Pricing Strategy",
+            "Feature B for Pricing Strategy",
+            "Feature C for Pricing Strategy"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Pricing Strategy project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Pricing%20Strategy"
+        },
+        {
+          "title": "90-Day Marketing Calendar",
+          "description": "Creating a detailed marketing calendar for the next 90 days.",
+          "tools": [
+            "Asana",
+            "Trello"
+          ],
+          "features": [
+            "Feature A for 90-Day Marketing Calendar",
+            "Feature B for 90-Day Marketing Calendar",
+            "Feature C for 90-Day Marketing Calendar"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the 90-Day Marketing Calendar project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=90-Day%20Marketing%20Calendar"
+        },
+        {
+          "title": "Digital Brand Revamp",
+          "description": "A complete revamp of a company's digital brand to improve its online presence.",
+          "tools": [
+            "SEO",
+            "Content Marketing",
+            "Social Media"
+          ],
+          "features": [
+            "Feature A for Digital Brand Revamp",
+            "Feature B for Digital Brand Revamp",
+            "Feature C for Digital Brand Revamp"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Digital Brand Revamp project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Digital%20Brand%20Revamp"
+        },
+        {
+          "title": "CRM Setup (Zoho/Hubspot)",
+          "description": "Setting up and configuring a CRM system to manage customer relationships.",
+          "tools": [
+            "Zoho CRM",
+            "HubSpot"
+          ],
+          "features": [
+            "Feature A for CRM Setup (Zoho/Hubspot)",
+            "Feature B for CRM Setup (Zoho/Hubspot)",
+            "Feature C for CRM Setup (Zoho/Hubspot)"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the CRM Setup (Zoho/Hubspot) project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=CRM%20Setup%20(Zoho%2FHubspot)"
+        },
+        {
+          "title": "Business Audit",
+          "description": "A thorough audit of a business to identify areas for improvement.",
+          "tools": [
+            "Financial Audit",
+            "Operational Audit"
+          ],
+          "features": [
+            "Feature A for Business Audit",
+            "Feature B for Business Audit",
+            "Feature C for Business Audit"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Business Audit project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Business%20Audit"
+        },
+        {
+          "title": "Process Automation Plan",
+          "description": "Developing a plan to automate business processes and improve efficiency.",
+          "tools": [
+            "UiPath",
+            "Automation Anywhere"
+          ],
+          "features": [
+            "Feature A for Process Automation Plan",
+            "Feature B for Process Automation Plan",
+            "Feature C for Process Automation Plan"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Process Automation Plan project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Process%20Automation%20Plan"
+        },
+        {
+          "title": "Lead Management Flow Setup",
+          "description": "Setting up a lead management flow to capture, track, and nurture leads.",
+          "tools": [
+            "Salesforce",
+            "Marketo"
+          ],
+          "features": [
+            "Feature A for Lead Management Flow Setup",
+            "Feature B for Lead Management Flow Setup",
+            "Feature C for Lead Management Flow Setup"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Lead Management Flow Setup project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Lead%20Management%20Flow%20Setup"
+        },
+        {
+          "title": "Customer Journey Optimization",
+          "description": "Optimizing the customer journey to improve customer satisfaction and loyalty.",
+          "tools": [
+            "A/B Testing",
+            "User Feedback"
+          ],
+          "features": [
+            "Feature A for Customer Journey Optimization",
+            "Feature B for Customer Journey Optimization",
+            "Feature C for Customer Journey Optimization"
+          ],
+          "timeline": [
+            {
+              "phase": "Phase 1",
+              "description": "Project kickoff, research, and planning."
+            },
+            {
+              "phase": "Phase 2",
+              "description": "Design mockups, development, and testing."
+            },
+            {
+              "phase": "Phase 3",
+              "description": "Deployment, launch, and post-launch support."
+            }
+          ],
+          "what_we_did": "For the Customer Journey Optimization project, we provided a comprehensive solution from start to finish. Our process included initial consultation, strategic planning, design and development, and final deployment. We ensured the final product met all the project's goals and exceeded expectations.",
+          "previewImage": "https://via.placeholder.com/400x300.png?text=Customer%20Journey%20Optimization"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Showcase</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <aside class="sidebar">
+            <div class="filters">
+                <input type="text" id="search-bar" placeholder="Search projects...">
+                <select id="category-filter">
+                    <option value="">All Categories</option>
+                </select>
+                <select id="type-filter">
+                    <option value="">All Types</option>
+                </select>
+            </div>
+            <div id="project-list" class="project-list">
+                <!-- Projects will be dynamically loaded here -->
+            </div>
+        </aside>
+        <main id="project-preview" class="project-preview">
+            <div class="preview-placeholder">
+                <h2>Select a project to see the preview</h2>
+            </div>
+            <div class="preview-content" style="display: none;">
+                <h2 id="preview-title"></h2>
+                <p id="preview-description"></p>
+                <div class="tools-used">
+                    <strong>Tools:</strong> <span id="preview-tools"></span>
+                </div>
+                <a href="#" id="view-project-btn" class="btn">View Full Project Page &rarr;</a>
+                <div class="preview-visual">
+                    <iframe id="preview-iframe" src="" frameborder="0"></iframe>
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="scripts/main.js"></script>
+</body>
+</html>
